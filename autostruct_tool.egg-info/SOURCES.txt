@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+autostruct/__init__.py
+autostruct/creator.py
+autostruct_tool.egg-info/PKG-INFO
+autostruct_tool.egg-info/SOURCES.txt
+autostruct_tool.egg-info/dependency_links.txt
+autostruct_tool.egg-info/entry_points.txt
+autostruct_tool.egg-info/top_level.txt
