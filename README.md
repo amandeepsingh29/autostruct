@@ -47,6 +47,13 @@ Install AutoStruct from PyPI:
 ```bash
 pip install autostruct-tool==0.1.5
 ```
+Using AutoStruct:
+
+```bash
+autostruct structure.txt
+```
+
+
 
 **Note:** The package is named `autostruct-tool` on PyPI, but the command-line tool is accessed via the `autostruct` command.
 
