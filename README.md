@@ -45,7 +45,7 @@ AutoStruct is a powerful command-line tool that transforms a simple text file in
 Install AutoStruct from PyPI:
 
 ```bash
-pip install autostruct-tool==0.1.2
+pip install autostruct-tool==0.1.5
 ```
 
 **Note:** The package is named `autostruct-tool` on PyPI, but the command-line tool is accessed via the `autostruct` command.
@@ -60,30 +60,30 @@ pip install autostruct-tool==0.1.2
 
 ```plaintext
 my_project/
-│── my_project/
-│   │── __init__.py
-│   │── main.py
-│   │── utils.py
-│── tests/
-│── docs/
-│── README.md
-│── requirements.txt
-│── LICENSE
+  ├── my_project/
+  │   ├── __init__.py
+  │   ├── main.py
+  │   ├── utils.py
+  ├── tests/
+  ├── docs/
+  ├── README.md
+  ├── requirements.txt
+  ├── LICENSE
 ```
 
 ### Generated Project Structure
 
 ```plaintext
 my_project/
-│── my_project/
-│   │── __init__.py
-│   │── main.py
-│   │── utils.py
-│── tests/
-│── docs/
-│── README.md
-│── requirements.txt
-│── LICENSE
+  ├── my_project/
+  │   ├── __init__.py
+  │   ├── main.py
+  │   ├── utils.py
+  ├── tests/
+  ├── docs/
+  ├── README.md
+  ├── requirements.txt
+  ├── LICENSE
 ```
 
 ## Development
@@ -122,5 +122,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any questions, suggestions, or issues, please open an issue on GitHub or contact the project maintainer, **Amandeep Singh**.
 
-🚀 **Happy Coding!**
+**Happy Coding!**
 
